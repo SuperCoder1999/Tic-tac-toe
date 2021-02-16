@@ -1,0 +1,2 @@
+F:\Visual Studio\独立项目1\三子棋\Debug\三子棋.exe
+F:\Visual Studio\独立项目1\三子棋\Debug\三子棋.pdb
